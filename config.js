@@ -10,5 +10,5 @@ module.exports = {
   // Commands should be preceded by this string:
   prefix: '@mention',
   // Moment.js date format to use:
-  dateFormat: 'YY-MM-DD HH:mm',
+  dateFormat: 'YY-MM-DD:',
 };
